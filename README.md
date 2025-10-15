@@ -66,7 +66,7 @@ index.html
   </div>
 
     <footer>
-        <p>Made with ❤️ by Ashwin Kumar A</p>
+        <p>Made with ❤️ by John Wilfred Thomas J W</p>
         <p>© 2025 To-Do List App</p>
     </footer>
   <script src="script.js"></script>
